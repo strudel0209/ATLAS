@@ -1,0 +1,4 @@
+openai>=1.30
+python-dotenv>=1.0
+tiktoken>=0.7
+tabulate>=0.9
